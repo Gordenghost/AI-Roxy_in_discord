@@ -7,6 +7,12 @@ ___
 
 本项目依附于项目:[MiniCPM](https://github.com/OpenBMB/MiniCPM)、[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file)、[gptsovits-api](https://github.com/jianchang512/gptsovits-api).
 
+### 相关文件可通过以下方式下载：
+
+- **[hugging face](https://huggingface.co/GordenGhost/AI-Roxy_in_discord)** 
+
+- **[hugging face mirr](https://hf-mirror.com/GordenGhost/AI-Roxy_in_discord)**
+
 ## 功能:
 
 1. **文字对话** : 用户直接在discord上私信或在群聊中与bot进行对话.
@@ -50,3 +56,5 @@ ___
 - 本项目的模型记忆为持续记忆, 长时间使用所造成的记忆内容将会降低模型的运行速度.
 
 - 本项目支持其他人物音色进行回答, 需用户自行替换模型与修改main.py和start.bat、prompt的相关内容.
+
+本项目遵循**CreativeML OpenRAIL-M**开源协议.
